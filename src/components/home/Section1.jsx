@@ -81,7 +81,7 @@ const HomeSection1 = ({ current, setCurrent }) => {
           <Row classes="w-[20rem] h-[20rem] lg:w-[25rem] lg:h-[25rem] pointer-events-none justify-self-center sm:justify-self-end items-center justify-center rounded-full bg-transparent border-2 border-[var(--primaryColor60)] aspect-sqaure overflow-hidden my-auto">
             <Row classes="w-full h-auto items-center justify-center rounded-full bg-transparent border-[0.8rem] border-[var(--primaryColor30)] aspect-sqaure overflow-hidden pointer-events-none">
               <Image
-                src={About.avatarUrl}
+                src={{uri:About.avatarUrl}}
                 alt="profile"
                 width={400}
                 height={400}
