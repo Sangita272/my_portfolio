@@ -7,7 +7,7 @@ const About = {
   description:
     "Your go-to MERN Stack maestro and wordsmith extraordinaire! 💻✨ Passionate about turning code into captivating web experiences and weaving tech tales through my words. Let's innovate and inspire together!",
   followText: "Follow me here",
-  avatarUrl: "/images/profile.PNG",
+  avatarUrl: "https://res.cloudinary.com/dop8490w6/image/upload/v1703580619/1703058763502_1_mwoxtf.png",
 };
 
 export default About;
