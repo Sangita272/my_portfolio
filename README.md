@@ -54,7 +54,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/nixrajput/portfolio-nextjs.git
+   git clone https://github.com/Sangita272/my_portfolio
    ```
 
 3. Navigate to the project directory:
@@ -135,20 +135,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
 - Thank you for considering sponsoring my work!
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
-
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: sangitamanna272@gmail.com](https://img.shields.io/badge/sangitamanna272@gmail.com-EFF7F6?logo=Gmail&link=mailto:sangitamanna272@gmail.com)][gmail]
-
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
+[github]: https://github.com/Sangita272
+[twitter]: https://twitter.com/bytebard96
+[instagram]: https://www.instagram.com/acciopotterhead_sangita?igshid=OGQ5ZDc2ODk2ZA==
+[linkedin]: https://www.linkedin.com/in/sangita-manna-2275261b6/
+[telegram]: https://t.me/Shel_door
 [gmail]: mailto:sangitamanna272@gmail.com
