@@ -32,7 +32,7 @@ const skills = [
   {
     title: "SQL",
     level: "⭐⭐⭐",
-    icon: "/logo/mongodb.webp",
+    icon: "/logo/mysql.webp",
   },
   {
     title: "HTML",

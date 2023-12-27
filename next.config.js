@@ -3,10 +3,11 @@ const path = require("path");
 
 const nextConfig = {
   reactStrictMode: false,
- // swcMinify: true,
-  sassOptions: {
-    includePaths: [path.join(__dirname, "styles")],
-  },images: {
+
+  // swcMinify: true,
+
+
+images: {
     remotePatterns: [
       {
         protocol: 'http',
