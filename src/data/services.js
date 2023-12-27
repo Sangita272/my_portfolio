@@ -9,19 +9,19 @@ const services = [
     title: "Frontend Development",
     image: "/icons/web-dev.webp",
     description:
-      "I deliver visually stunning and user-friendly websites to help you establish a strong online presence. Whether it's a simple informational site or a complex e-commerce platform, I provide tailored web development solutions. Using the latest frameworks and technologies, I create responsive, SEO-friendly websites that offer a seamless browsing experience on all devices.",
+      "Crafting visually striking and intuitive websites is my forte, aimed at elevating your online presence. From sleek informational sites to dynamic e-commerce platforms, I specialize in delivering bespoke web development solutions. Leveraging cutting-edge frameworks and technologies, I design responsive and SEO-friendly websites that ensure a seamless and captivating browsing experience across all devices. Your digital success story begins with a website that not only meets but exceeds user expectations. Let's transform your online presence into a captivating journey!",
   },
   {
     title: "Backend Development",
     image: "/icons/backend-dev.webp",
     description:
-      "I enhance your digital applications with a robust and scalable backend infrastructure. With expertise in backend development, I create efficient database structures, develop APIs, and configure servers to ensure optimal performance, security, and scalability. My solutions empower your applications to seamlessly handle high traffic and complex data management.",
+      "Elevating your digital applications to new heights, I specialize in fortifying them with a resilient and scalable backend infrastructure. My expertise in backend development transcends conventional boundaries as I meticulously craft efficient database structures, engineer dynamic APIs, and fine-tune servers for peak performance, unwavering security, and limitless scalability. With my solutions, your applications are not just functional – they are empowered to effortlessly navigate high traffic volumes and master the intricacies of data management. ",
   },
   {
     title: "Technical Content Writing",
-    image: "/icons/backend-dev.webp",
+    image: "/icons/mobile-dev.webp",
     description:
-      "I collaborate with you to define clear goals, target audiences, and a roadmap for success. My expertise in product ideation and market analysis ensures that your product not only meets user needs but also aligns with your business strategy for long-term growth and full potential of your digital products with effective product strategy.",
+      "As a freelance technical writer, I weave intricate tales of technology and innovation. With the stroke of my keyboard, I transform complex ideas into captivating narratives that bridge the gap between the intricate world of code and the curious minds eager to understand it. Each word I craft is a stepping stone, guiding readers through the labyrinth of technology with clarity and finesse.",
   },
 ];
 
