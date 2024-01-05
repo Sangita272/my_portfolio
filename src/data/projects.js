@@ -15,7 +15,7 @@ const projects = [
     title: "Ajiji",
     description:
       "Ajiji serves as a comprehensive guide on a journey of self-discovery, personal growth, and unparalleled success. Through a carefully crafted program, Ajiji provides users with a powerful toolkit, comprising resources, strategies, and personalized insights tailored to their unique goals and aspirations. This project is designed to empower individuals across various aspects of their lives, be it career advancement, relationship improvement, mindfulness cultivation, or overall well-being enhancement.",
-    icon: "/logo/flutter.webp",
+    icon: "/logo/ajiji.png",
     sceenshots: [],
     githubUrl: "#",
     playstoreUrl: "#",
