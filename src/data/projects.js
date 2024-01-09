@@ -3,11 +3,11 @@ const projects = [
     title: "Dabbawala",
     description:
       "In my recent project titled Dabbawala, I delved into the realm of efficient food delivery services, offering a comprehensive suite of solutions to meet diverse culinary needs. This multifaceted project comprised three distinct services: meal delivery, delivery order, and catering. The meal delivery service aimed at providing individuals with a seamless and convenient solution for receiving wholesome and delicious meals at their doorstep. The delivery order service facilitated a streamlined process for customers to place and receive food orders with utmost efficiency. Additionally, the catering service catered to larger gatherings and events, ensuring a delightful culinary experience for groups.",
-    icon: "/logo/flutter.webp",
+    icon: "https://res.cloudinary.com/dop8490w6/image/upload/v1704784895/16735977892017d8a2580d7b53b8f86fd5f79_telwwb.png",
     sceenshots: [],
     githubUrl: "#",
     playstoreUrl: "#",
-    url: "https://res.cloudinary.com/dop8490w6/image/upload/v1704784895/16735977892017d8a2580d7b53b8f86fd5f79_telwwb.png",
+    url: "https://dabbawala.iosx.in/",
     repoType: "public",
     tags: ["Node.js", "Express.js", "MongoDB", "WebSocket", "React Js"],
   },
