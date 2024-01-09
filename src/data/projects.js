@@ -77,7 +77,7 @@ const projects = [
     githubUrl: "#",
     url: "https://www.learningt.com/",
     repoType: "public",
-    tags: ["Flutter", "Dart", "BLoC", "PDF", "Hive"],
+    tags: ["TypeScript", "PHP"],
   },
   {
     title: "BusinessIntelligence",
@@ -88,7 +88,7 @@ const projects = [
     githubUrl: "#",
     url: "https://businessintelligencetools.com/",
     repoType: "public",
-    tags: ["Flutter", "Dart", "BLoC", "PDF", "Hive"],
+    tags: ["Next.Js", "MongoDB", "Node.Js", "Express.Js"],
   },
 ];
 
